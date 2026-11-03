@@ -28,3 +28,4 @@ Cybersecurity learner | Egypt | Currently on Pre Security @ TryHackMe
 ## 📫 Connect
 - TryHackMe: https://tryhackme.com/p/mbakrey452
 - GitHub: https://github.com/mbakrey453-creator
+- linkedin: https://www.linkedin.com/in/mohamed-bakrey-5a647b359/
