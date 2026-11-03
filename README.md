@@ -1,5 +1,4 @@
-![tryhackme stats](https://raw.githubusercontent.com/mbakrey453-creator/tryhackmembakrey452/main/assets/thm_propic.png)
-
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mbakrey452.png)](https://tryhackme.com/p/mbakrey452)
 [My TryHackMe Profile](https://tryhackme.com/p/mbakrey452)
 # Hi, I'm Mohamed Bakrey 👋
 
