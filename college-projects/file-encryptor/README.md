@@ -9,6 +9,10 @@ College project - encrypt, verify and securely shred files.
 - Secure shredding - anti-forensics overwrite (`shred_engine.py`)
 - CLI (`cli.py`) + GUI (`gui.py`)
 - Tests: `test_crypto.py`, `test_shred.py`
+ ## What does it do? (Encrypts files, securely shreds them, has only a CLI).
+-How to install it: ##pip install -r requirements.txt
+-How to run it : use the (encrypt/decrypt/shred/hash/verify) to minipulate your files after you set a password
+
 
 ## Usage
 ```bash  
