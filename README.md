@@ -1,12 +1,8 @@
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mbakrey452.png)](https://tryhackme.com/p/mbakrey452)
-[My TryHackMe Profile](https://tryhackme.com/p/mbakrey452)
 # Hi, I'm Mohamed Bakrey 👋
 
-Cybersecurity learner | Egypt | Currently on **Pre Security** @ TryHackMe
+Cybersecurity learner | Egypt | Currently on Pre Security @ TryHackMe
 
-[![TryHackMe](https://raw.githubusercontent.com/mbakrey453-creator/tryhackmembakrey452/main/assets/thm_propic.png)](https://tryhackme.com/p/mbakrey452)
-
-> If badge above is broken, backup: ![THM](https://tryhackme-badges.s3.amazonaws.com/mbakrey452.png)
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-mbakrey452-88cc00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mbakrey452)
 
 ## 🎯 My TryHackMe Progress
 - **Profile:** [tryhackme.com/p/mbakrey452](https://tryhackme.com/p/mbakrey452)
