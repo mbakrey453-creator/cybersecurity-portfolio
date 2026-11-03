@@ -17,5 +17,4 @@ python cli.py encrypt secret.txt
 python cli.py decrypt secret.txt.enc  
 python cli.py verify secret.txt.enc  
 python cli.py shred secret.txt
-<img width="682" height="558" alt="{F05E0861-D110-476F-8160-48937FA67494}" src="https://github.com/user-attachments/assets/5be3d3bc-0963-45ec-9d16-63765465a8a2" />
 
