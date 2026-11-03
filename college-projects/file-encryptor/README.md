@@ -1,5 +1,4 @@
 <img width="682" height="558" alt="{F05E0861-D110-476F-8160-48937FA67494}" src="https://github.com/user-attachments/assets/be9a3d90-1f2d-4809-a7ce-56e00805d9a5" 
-  
   /># Secure File Lifecycle Manager - File Encryptor
 College project - encrypt, verify and securely shred files.
 
