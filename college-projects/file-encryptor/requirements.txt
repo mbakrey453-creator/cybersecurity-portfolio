@@ -1,0 +1,18 @@
+# Secure File Lifecycle Manager
+## Requirements
+
+# ── Core dependencies ──────────────────────────────────────
+cryptography>=42.0.0   # AES-256-GCM + PBKDF2-HMAC-SHA256 (already installed)
+
+# ── Week 3–4 (Shred layer) ────────────────────────────────
+# No extra libraries needed — uses os and built-in random
+
+# ── Week 5–6 (Monitor layer) ──────────────────────────────
+watchdog>=4.0.0        # Real-time file system event monitoring
+plyer>=2.1.0           # Windows desktop notifications (toast alerts)
+
+# ── Week 7 (GUI layer) ────────────────────────────────────
+# tkinter is built into Python — no install required
+
+# ── Development / Testing ─────────────────────────────────
+# unittest is built into Python — no install required
